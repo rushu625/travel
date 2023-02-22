@@ -1,0 +1,268 @@
+{
+  "name": "ricon",
+  "css_prefix_text": "ricon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
+      "css": "linkedin",
+      "code": 61665,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter",
+      "code": 61593,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8e04c98c8f5ca0a035776e3001ad2638",
+      "css": "facebook",
+      "code": 61594,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram",
+      "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0f6a2573a7b6df911ed199bb63717e27",
+      "css": "github-circled",
+      "code": 61595,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3fb64dab2b2e0a6cefa161387250c620",
+      "css": "angellist",
+      "code": 61961,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "199c44bca402ec5a6351f75ba5228375",
+      "css": "dribbble",
+      "code": 61821,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bc3ee2abb8a3ed4e41cb004054ca2242",
+      "css": "top-arrow-2",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M501 348L502 347 503 349 994 637 985 653 501 370 14 653 5 637 494 352 497 346 501 348Z",
+        "width": 1000
+      },
+      "search": [
+        "top-arrow-2"
+      ]
+    },
+    {
+      "uid": "7af53f87d91c28a5a6c19796c5ecac3b",
+      "css": ",,",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M355 572C394 609 413 658 413 720 413 781 394 832 355 871 316 910 268 929 210 929 151 929 101 909 62 869 23 829 4 779 4 720 4 700 6 680 9 662 12 644 18 622 26 596 35 570 46 538 60 502L204 72H398L286 530C312 539 335 553 355 572ZM937 572C917 553 893 539 867 529L980 71H786L641 501C627 538 615 569 607 595 599 621 593 643 590 661 587 679 585 699 585 719 585 778 604 828 643 868 682 908 731 928 791 928 848 928 897 909 936 870 975 831 994 781 994 719 995 658 975 609 937 572Z",
+        "width": 1000
+      },
+      "search": [
+        ",,"
+      ]
+    },
+    {
+      "uid": "d0acbcb8db9c913fdf6fe6046dc230e8",
+      "css": "bottom-arrow-2",
+      "code": 59394,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M499 652L498 653 496 650 5 362 14 346 499 630 985 347 994 363 506 648 503 654 499 652Z",
+        "width": 1000
+      },
+      "search": [
+        "bottom-arrow-2"
+      ]
+    },
+    {
+      "uid": "4751e76627da343360efb037b65bcb27",
+      "css": "button-bottom",
+      "code": 59395,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M570 768L966 372C994 344 1003 301 987 264 972 227 936 203 895 203H104C64 203 28 227 12 264S5 343 33 372L430 768H430C469 807 532 807 570 768Z",
+        "width": 1000
+      },
+      "search": [
+        "button-bottom"
+      ]
+    },
+    {
+      "uid": "b2ed3e6117625ee92ed786e2edb55228",
+      "css": "button-left",
+      "code": 59396,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M233 571L629 967C657 995 700 1004 737 988 774 973 798 937 798 896V105C798 65 774 29 737 13 700-2 657 6 629 34L233 430V430C194 469 194 532 233 571Z",
+        "width": 1000
+      },
+      "search": [
+        "button-left"
+      ]
+    },
+    {
+      "uid": "e8171fcc64b4bb4de10f74cec23493ac",
+      "css": "button-right",
+      "code": 59397,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M769 430L373 34C345 6 302-3 265 13 228 28 204 64 204 105V897C204 937 228 973 265 989S344 996 373 968L769 572V572C807 532 807 469 769 430Z",
+        "width": 1000
+      },
+      "search": [
+        "button-right"
+      ]
+    },
+    {
+      "uid": "f69af8ca5893ebddf2fa1a4428d39522",
+      "css": "button-top",
+      "code": 59398,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M431 232L35 628C7 656-2 699 14 736 29 773 65 797 106 797H898C938 797 974 773 990 736 1005 699 997 657 969 628L571 232H571C532 194 469 194 431 232Z",
+        "width": 1000
+      },
+      "search": [
+        "button-top"
+      ]
+    },
+    {
+      "uid": "f2a6032feb8b4a651a7255ad270385e1",
+      "css": "chek-mark",
+      "code": 59399,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M974 267L409 833C381 861 337 861 309 833L26 550C-2 522-2 478 26 450 54 422 98 422 126 450L359 683 875 168C903 140 947 140 975 168H975C1002 195 1002 240 974 267Z",
+        "width": 1000
+      },
+      "search": [
+        "chek-mark"
+      ]
+    },
+    {
+      "uid": "e1e92f335a13f77aa93d656e502352b5",
+      "css": "left-arrow",
+      "code": 59400,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M27 450L27 450 381 97C409 69 453 69 481 97S509 169 481 197L248 430H926C965 430 997 462 997 501S965 572 926 572H248L481 805C509 833 509 877 481 905S409 933 381 905L27 551C0 523 0 478 27 450Z",
+        "width": 1000
+      },
+      "search": [
+        "left-arrow"
+      ]
+    },
+    {
+      "uid": "31b02a1442074a9643dfaffbc2740a7b",
+      "css": "left-arrow-2",
+      "code": 59401,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M348 499L347 498 349 497 638 5 654 14 370 499 653 985 637 994 352 506 346 503 348 499Z",
+        "width": 1000
+      },
+      "search": [
+        "left-arrow-2"
+      ]
+    },
+    {
+      "uid": "4abed76d3d293873fcc64e657200724b",
+      "css": "right-arrow-2",
+      "code": 59402,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M652 501L653 502 650 504 362 995 346 986 630 501 347 14 363 5 648 494 654 497 652 501Z",
+        "width": 1000
+      },
+      "search": [
+        "right-arrow-2"
+      ]
+    },
+    {
+      "uid": "6b36c39c11346fa0cd6cc42154db90f6",
+      "css": "bottom-arrow",
+      "code": 59403,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M452 975L452 975 98 621C70 593 70 549 98 521S170 493 198 521L431 754V76C431 37 463 5 502 5S573 37 573 76V754L806 521C834 493 878 493 906 521S934 593 906 621L552 975C524 1002 479 1002 452 975Z",
+        "width": 1000
+      },
+      "search": [
+        "bottom-arrow"
+      ]
+    },
+    {
+      "uid": "f37edf5adc4304b7b533abe59e97e9f2",
+      "css": "top-arrow",
+      "code": 59404,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M551 26L551 26 905 380C933 408 933 452 905 480 877 508 833 508 805 480L572 247V925C572 964 540 996 501 996S430 964 430 925V247L198 480C170 508 126 508 98 480S70 408 98 380L451 26C479-1 524-1 551 26Z",
+        "width": 1000
+      },
+      "search": [
+        "top-arrow"
+      ]
+    },
+    {
+      "uid": "b43e35c2b35206bd4bed4fd5520d756a",
+      "css": "right-arrow",
+      "code": 59405,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M976 550L976 550 622 904C594 932 550 932 522 904 494 876 494 832 522 804L755 571H77C38 571 6 539 6 500S38 430 77 430H755L522 197C494 169 494 125 522 97S594 69 622 97L976 450C1003 478 1003 523 976 550Z",
+        "width": 1000
+      },
+      "search": [
+        "right-arrow"
+      ]
+    },
+    {
+      "uid": "33cea6d7bd699348c0d593e105361a51",
+      "css": "facebook-circled",
+      "code": 59406,
+      "src": "typicons"
+    },
+    {
+      "uid": "8b40cc0ad1b66c0e9190b50da51de28b",
+      "css": "icon",
+      "code": 59407,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M355 572C394 609 413 658 413 720 413 781 394 832 355 871 316 910 268 929 210 929 151 929 101 909 62 869 23 829 4 779 4 720 4 700 6 680 9 662 12 644 18 622 26 596 35 570 46 538 60 502L204 72H398L286 530C312 539 335 553 355 572ZM937 572C917 553 893 539 867 529L980 71H786L641 501C627 538 615 569 607 595 599 621 593 643 590 661 587 679 585 699 585 719 585 778 604 828 643 868 682 908 731 928 791 928 848 928 897 909 936 870 975 831 994 781 994 719 995 658 975 609 937 572Z",
+        "width": 1000
+      },
+      "search": [
+        "icon"
+      ]
+    }
+  ]
+}
